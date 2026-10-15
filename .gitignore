@@ -1,0 +1,10 @@
+# Datos pesados y modelos entrenados (no se suben al repositorio)
+informacion/datos_crudos/*
+!informacion/datos_crudos/.gitkeep
+codigos/modelos/*
+!codigos/modelos/.gitkeep
+
+# Archivos temporales
+__pycache__/
+.ipynb_checkpoints/
+.env
